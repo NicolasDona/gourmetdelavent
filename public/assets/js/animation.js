@@ -18,7 +18,7 @@ console.log(stockage);
 openCase.addEventListener('click', () => {
     if (openCase.getAttribute('data-date') <= dateDayNumber) {
     openDoor();
-    localStorage.setItem('dayOpened', openCase.getAttribute('data-date'));
+    localStorage.setItem('dayOpened', openCase.getAttribute('data-date')); // mémoriser la case ouverte au click
     }
 })
 
@@ -47,6 +47,3 @@ function zoomOut() {
         fullsizeImg.classList.add('d-none');
     }, 1000);
 }
-
-
-
