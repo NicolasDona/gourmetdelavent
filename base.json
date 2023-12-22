@@ -1,76 +1,124 @@
 [
 	{
-        id: 1,
-        title: "Coquilles Saint-Jacques",
-		description: "Une délicieuse entrée de fruits de mer mettant en vedette des noix de Saint-Jacques, délicatement poêlées et servies dans une sauce crémeuse à base de vin blanc, d'échalotes et de champignons, le tout gratiné au four pour une saveur raffinée.",
-        img: "coquilles_saint_jacques.jpg",
-        thumb: "coquilles_saint_jacques.jpg",
-        recipe: "https://chefsimon.com/gourmets/chef-simon/recettes/noix-de-saint-jacques-sautees"
+        "id": 1,
+        "title": "Coquilles Saint-Jacques",
+		"description": "Une délicieuse entrée de fruits de mer mettant en vedette des noix de Saint-Jacques, délicatement poêlées et servies dans une sauce crémeuse à base de vin blanc, d'échalotes et de champignons, le tout gratiné au four pour une saveur raffinée.",
+        "img": "coquilles_saint_jacques.jpg",
+        "thumb": "coquilles_saint_jacques.jpg",
+        "recipe": "https://chefsimon.com/gourmets/chef-simon/recettes/noix-de-saint-jacques-sautees"
     }
     ,
 	{
-        id: 2,
-        title: "Risotto aux truffes blanches",
-        description: "Pour une option luxueuse et sophistiquée à intégrer dans votre menu de Noël, optez pour un risotto aux truffes blanches. Ce plat italien emblématique met en valeur un riz crémeux cuit lentement dans un bouillon parfumé, agrémenté de truffes blanches finement râpées pour une saveur intense et terreuse. La texture onctueuse du risotto associée à l'arôme distinctif des truffes crée une expérience gastronomique inoubliable. ",
-        img: "risotto_aux_truffes_blanches.jpg",
-        thumb: "risotto_aux_truffes_blanches.jpg",
-        recipe: "https://www.lacremerieroyale.fr/post/recette-de-risotto-a-la-truffe-blanche"
+        "id": 2,
+        "title": "Risotto aux truffes blanches",
+        "description": "Pour une option luxueuse et sophistiquée à intégrer dans votre menu de Noël, optez pour un risotto aux truffes blanches. Ce plat italien emblématique met en valeur un riz crémeux cuit lentement dans un bouillon parfumé, agrémenté de truffes blanches finement râpées pour une saveur intense et terreuse. La texture onctueuse du risotto associée à l'arôme distinctif des truffes crée une expérience gastronomique inoubliable. ",
+        "img": "risotto_aux_truffes_blanches.jpg",
+        "thumb": "risotto_aux_truffes_blanches.jpg",
+        "recipe": "https://www.lacremerieroyale.fr/post/recette-de-risotto-a-la-truffe-blanche"
     },
 	{
-        id: 3,
-        title: "Chapon rôti",
-        description: "Un classique festif, le chapon rôti est une volaille tendre et juteuse, cuite lentement au four jusqu'à ce qu'elle atteigne une perfection dorée. Ce plat est souvent accompagné de légumes rôtis et d'une sauce savoureuse.",
-        img: "chapon_roti.jpg",
-        thumb: "chapon_roti.jpg",
-        recipe: "https://www.cuisineactuelle.fr/recettes/chapon-roti-forestiere-209102"
+        "id": 3,
+        "title": "Chapon rôti",
+        "description": "Un classique festif, le chapon rôti est une volaille tendre et juteuse, cuite lentement au four jusqu'à ce qu'elle atteigne une perfection dorée. Ce plat est souvent accompagné de légumes rôtis et d'une sauce savoureuse.",
+        "img": "chapon_roti.jpg",
+        "thumb": "chapon_roti.jpg",
+        "recipe": "https://www.cuisineactuelle.fr/recettes/chapon-roti-forestiere-209102"
     },
 	{
-        id: 4,
-        title: "Magret de canard aux fruits rouges",
-        description: "Un mariage exquis de saveurs sucrées et salées, le magret de canard est grillé et nappé d'une sauce aux fruits rouges qui apporte une touche acidulée et sucrée, créant un équilibre parfait avec la richesse de la viande.",
-        img: "magret_de_canard_aux_fruits_rouges.jpg",
-        thumb:"magret_de_canard_aux_fruits_rouges.jpg",
-        recipe: "https://www.marmiton.org/recettes/recette_magrets-de-canard-aux-fruits-rouges_50839.aspx"
+        "id": 4,
+        "title": "Magret de canard aux fruits rouges",
+        "description": "Un mariage exquis de saveurs sucrées et salées, le magret de canard est grillé et nappé d'une sauce aux fruits rouges qui apporte une touche acidulée et sucrée, créant un équilibre parfait avec la richesse de la viande.",
+        "img": "magret_de_canard_aux_fruits_rouges.jpg",
+        "thumb":"magret_de_canard_aux_fruits_rouges.jpg",
+        "recipe": "https://www.marmiton.org/recettes/recette_magrets-de-canard-aux-fruits-rouges_50839.aspx"
 	},
     {
-        id: 5,
-        title: "Dinde aux marrons",
-        description: "Un plat traditionnel de fête, la dinde aux marrons, associe la tendreté de la dinde rôtie avec la saveur sucrée des marrons, créant une combinaison délicieuse de textures et de goûts. ",
-        img: "dinde_aux_marrons.jpg",
-        thumb:"dinde_aux_marrons.jpg",
-        recipe: "https://www.marmiton.org/recettes/recette_dinde-farcie-aux-marrons_24858.aspx"
+        "id": 5,
+        "title": "Dinde aux marrons",
+        "description": "Un plat traditionnel de fête, la dinde aux marrons, associe la tendreté de la dinde rôtie avec la saveur sucrée des marrons, créant une combinaison délicieuse de textures et de goûts. ",
+        "img": "dinde_aux_marrons.jpg",
+        "thumb":"dinde_aux_marrons.jpg",
+        "recipe": "https://www.marmiton.org/recettes/recette_dinde-farcie-aux-marrons_24858.aspx"
 	},
     {
-        id: 6,
-        title: "Raclette",
-        description: "Une expérience conviviale où le fromage raclette est fondu et raclé sur des pommes de terre cuites, accompagné de charcuterie, de cornichons et d'autres accompagnements, créant un repas chaleureux et réconfortant.",
-        img: "",
-        thumb:"",
-        recipe: ""
+        "id": 6,
+        "title": "Raclette",
+        "description": "Une expérience conviviale où le fromage raclette est fondu et raclé sur des pommes de terre cuites, accompagné de charcuterie, de cornichons et d'autres accompagnements, créant un repas chaleureux et réconfortant.",
+        "img": "raclette.jpg",
+        "thumb":"raclette.jpg",
+        "recipe": "https://www.hervecuisine.com/recette/recette-raclette-originale/"
 	},
     {
-        id: ,
-        title: "",
-        description: "",
-        img: "",
-        thumb:"",
-        recipe: ""
+        "id": 7,
+        "title": "Escargots de Bourgogne",
+        "description": "Les Escargots de Bourgogne sont une délicatesse française réputée, mettant en vedette des escargots cuits dans un beurre d'ail, de persil et parfois de vin blanc. Servis dans leurs coquilles, ces escargots tendres et parfumés offrent une expérience culinaire raffinée, souvent accompagnée de pain croustillant pour saucer la succulente sauce.",
+        "img": "escargots_de_bourgogne.jpg",
+        "thumb":"escargots_de_bourgogne.jpg",
+        "recipe": "https://www.marmiton.org/recettes/recette_escargots-de-bourgogne_53773.aspx"
 	},
     {
-        id: ,
-        title: "",
-        description: "",
-        img: "",
-        thumb:"",
-        recipe: ""
+        "id": 8,
+        "title": "Bûche de Noël",
+        "description": "La Bûche de Noël est un dessert emblématique de la période des fêtes. Cette délicieuse pâtisserie se présente sous la forme d'un gâteau roulé, généralement à la génoise ou au biscuit roulé, garni de crème au beurre, de ganache ou de crème pâtissière. La surface est souvent décorée pour ressembler à une bûche de bois, créant ainsi une tradition sucrée festive à la fin des repas de Noël.",
+        "img": "buche_de_noel",
+        "thumb":"buche_de_noel",
+        "recipe": "https://www.marmiton.org/recettes/recette_buche-de-noel-facile_18219.aspx"
 	},
     {
-        id: ,
-        title: "",
-        description: "",
-        img: "",
-        thumb:"",
-        recipe: ""
+        "id": 9,
+        "title": "Samichlaus Classic ",
+        "description": "Une bière autrichienne brassée une fois par an le 6 décembre. Elle est connue pour sa puissance, avec un taux d'alcool souvent supérieur à 14%. Les arômes de caramel, de fruits secs et de malt sont bien présents.",
+        "img": "samichlaus_classic.jpg",
+        "thumb":"samichlaus_classic.jpg",
+        "recipe": "https://unepetitemousse.fr/produit/brasserie-samichlaus-biere-samichlaus"
+	},
+    {
+        "id": 10,
+        "title": "St. Bernardus Christmas Ale",
+        "description": "Originaire de Belgique, cette bière de Noël est riche et complexe. Elle offre des notes de fruits mûrs, de caramel, d'épices et une pointe chaleureuse de levure belge. Elle est équilibrée malgré sa robustesse.",
+        "img": "St_Bernardus_Christmas_Ale.jpeg",
+        "thumb":"St_Bernardus_Christmas_Ale.jpeg",
+        "recipe": "https://www.saveur-biere.com/fr/bouteilles/4669-st-bernardus-christmas-ale.html"
+	},
+    {
+        "id": 11,
+        "title": "Anchor Christmas Ale",
+        "description": "Brassée par Anchor Brewing aux États-Unis, cette bière arbore chaque année un nouvel emballage et une nouvelle recette. Elle présente généralement des saveurs de malt caramélisé, d'épices et de houblon subtil.",
+        "img": "anchor_christmas_Ale.jpg",
+        "thumb":"anchor_christmas_Ale.jpg",
+        "recipe": ""
+	},
+    {
+        "id": ,
+        "title": "",
+        "description": "",
+        "img": "",
+        "thumb":"",
+        "recipe": ""
+	},
+    {
+        "id": ,
+        "title": "",
+        "description": "",
+        "img": "",
+        "thumb":"",
+        "recipe": ""
+	},
+    {
+        "id": ,
+        "title": "",
+        "description": "",
+        "img": "",
+        "thumb":"",
+        "recipe": ""
+	},
+    {
+        "id": ,
+        "title": "",
+        "description": "",
+        "img": "",
+        "thumb":"",
+        "recipe": ""
 	},
 
 ]
