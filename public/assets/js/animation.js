@@ -11,7 +11,8 @@ const dateDayNumber = date.getDate();
 // mettre en place le localStorage :
 const stockage = localStorage;
 console.log(stockage);
-
+console.log(door);
+console.log(dateDayNumber);
 
 // ! Evènements
 
