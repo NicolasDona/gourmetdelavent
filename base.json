@@ -1,0 +1,45 @@
+[
+	{
+        id: 1,
+        title: "Coquilles Saint-Jacques",
+		description: "Une délicieuse entrée de fruits de mer mettant en vedette des noix de Saint-Jacques, délicatement poêlées et servies dans une sauce crémeuse à base de vin blanc, d'échalotes et de champignons, le tout gratiné au four pour une saveur raffinée.",
+        image: "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fmedia.istockphoto.com%2Fid%2F851328184%2Ffr%2Fphoto%2Fde-saint-jacques-frites.jpg%3Fs%3D612x612%26w%3D0%26k%3D20%26c%3DhJxWYqXarwzs1gVXTFtLgf65GckGUztKhCMQzgSRRs0%3D&sp=1703166411T63278163c48a2d42fe70c54aa3b55c418830678fdf5d2ffdfc7f7216a09719a4",
+        recette: "https://chefsimon.com/gourmets/chef-simon/recettes/noix-de-saint-jacques-sautees",
+    }
+    ,
+	{
+        id: 2,
+        title: "Risotto aux truffes blanches",
+        description: "Pour une option luxueuse et sophistiquée à intégrer dans votre menu de Noël, optez pour un risotto aux truffes blanches. Ce plat italien emblématique met en valeur un riz crémeux cuit lentement dans un bouillon parfumé, agrémenté de truffes blanches finement râpées pour une saveur intense et terreuse. La texture onctueuse du risotto associée à l'arôme distinctif des truffes crée une expérience gastronomique inoubliable. ",
+        image: "https://www.lacremerieroyale.fr/pub/blog/Fotolia_104339736_XL-Martin_Rettenberger.jpg",
+        recette: "https://www.lacremerieroyale.fr/post/recette-de-risotto-a-la-truffe-blanche",
+    },
+	{
+        id: 3,
+        title: "Chapon rôti",
+        description: "Un classique festif, le chapon rôti est une volaille tendre et juteuse, cuite lentement au four jusqu'à ce qu'elle atteigne une perfection dorée. Ce plat est souvent accompagné de légumes rôtis et d'une sauce savoureuse.",
+        image: "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fwww.shutterstock.com%2Fimage-photo%2Fchristmas-new-year-table-roast-600nw-1253931844.jpg&sp=1703166878T40d6cab6c06ce519ac321b8a3e51dcb39c40fb265dc13e1790af328042cc2233",
+        recette: "https://www.cuisineactuelle.fr/recettes/chapon-roti-forestiere-209102",
+    },
+	{
+        id: 4,
+        title: "Magret de canard aux fruits rouges:",
+        description: "Un mariage exquis de saveurs sucrées et salées, le magret de canard est grillé et nappé d'une sauce aux fruits rouges qui apporte une touche acidulée et sucrée, créant un équilibre parfait avec la richesse de la viande.",
+        image: "https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fi.notrefamille.com%2F1400x787%2Fsmart%2F2020%2F11%2F26%2F311239-large.jpg&sp=1703167002T0acb27031d1c1b67412595102b32a6c6981ab1c66092eba10a1509728e94f6fe",
+        recettes: "https://www.marmiton.org/recettes/recette_magrets-de-canard-aux-fruits-rouges_50839.aspx"
+    },
+	{
+        id: 5,
+        title: "Dinde aux marrons",
+        description: "Un plat traditionnel de fête, la dinde aux marrons, associe la tendreté de la dinde rôtie avec la saveur sucrée des marrons, créant une combinaison délicieuse de textures et de goûts. ",
+        
+	},
+	{
+		color: "yellow",
+		value: "#ff0"
+	},
+	{
+		color: "black",
+		value: "#000"
+	}
+]
