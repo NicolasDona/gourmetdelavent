@@ -134,7 +134,7 @@
         "description": "Cocktail festif au goût incomparable, le Black Pearl est parfait pour les fêtes de fin d'année! ",
         "img": "black_pearl_version_champagne.jpg",
         "thumb":"black_pearl_version_champagne.jpg",
-        "recipe": ""
+        "recipe": "https://www.1001cocktails.com/recettes/recette_black-pearl_357581.aspx"
 	},
     {
         "id": 18,
@@ -142,7 +142,7 @@
         "description": "Considérée comme un cocktail de réception, la soupe champenoise sera parfaite pour une mise en bouche festive et personnalisée.",
         "img": "soupe_champenoise.jpg",
         "thumb":"soupe_champenoise.jpg",
-        "recipe": ""
+        "recipe": "https://www.marmiton.org/recettes/recette_soupe-champenoise_15029.aspx"
 	},
     {
         "id": 19,
@@ -150,7 +150,7 @@
         "description": "Idéal pour les brunchs festifs ou les apéritifs, le mimosa est une alliance entre le jus d'orange et le vin pétillant. Ici, une touche de Cointreau est ajoutée pour exalter les saveurs du champagne.",
         "img": "mimosa.jpg",
         "thumb":"mimosa.jpg",
-        "recipe": ""
+        "recipe": "https://www.marmiton.org/recettes/recette_mimosa-cocktail_371689.aspx"
 	},
     {
         "id": 20,
@@ -158,7 +158,7 @@
         "description": "Le punch blanc ou punch nounou est une boisson à base de lait de coco, rhum blanc, sucre de canne et mangue. Ce mélange exotique est une véritable explosion de saveurs en bouche. ",
         "img": "punch_blanc.jpg",
         "thumb":"punch_blanc.jpg",
-        "recipe": ""
+        "recipe": "https://www.marieclaire.fr/cuisine/punch-nounou-cocktail-blanc,1203844.asp"
 	},
     {
         "id": 21,
@@ -166,7 +166,7 @@
         "description": "Si vous n'êtes pas très fan du vin chaud, testez sans attendre le cidre chaud ! Réconfortant et aux doux effluves de pommes, le cidre chaud est un véritable délice.",
         "img": "cidre_chaud.jpg",
         "thumb":"cidre_chaud.jpg",
-        "recipe": ""
+        "recipe": "https://www.marmiton.org/recettes/recette_cidre-chaud_315043.aspx"
 	},
     {
         "id": 22,
@@ -174,7 +174,7 @@
         "description": "Originaire d'Italie, le Spritz est un cocktail à la couleur vive et au goût prononcé. Parfait pour apporter un peu de fraîcheur et de pétillant, ce cocktail est très prisé.",
         "img": "spritz_de_fin_d_annee.jpg",
         "thumb":"spritz_de_fin_d_annee.jpg",
-        "recipe": ""
+        "recipe": "https://www.ptitchef.com/recettes/boisson/spritz-le-celebre-cocktail-italien-a-l-aperol-fid-1571019"
 	},
     {
         "id": 23,
@@ -182,7 +182,7 @@
         "description": "Parmi nos cocktails de Noël, celui-ci peut également être servi pour la Saint-Valentin ou un dîner en tête en tête. Chic et raffiné, le kir impérial est un cocktail idéal pour les amoureux.",
         "img": "kir_imperial.jpg",
         "thumb":"kir_imperial.jpg",
-        "recipe": ""
+        "recipe": "https://www.marieclaire.fr/cuisine/kir-imperial,1288874.asp"
 	},
     {
         "id": 24,
@@ -190,6 +190,6 @@
         "description": "Grand classique de Noël, le vin chaud est généralement servi dans la rue et est parfait pour réchauffer les mains engourdies par le froid. Voici une recette conviviale et chaleureuse!",
         "img": "vin_chaud_aux_epices.jpg",
         "thumb":"vin_chaud_aux_epices.jpg",
-        "recipe": ""
+        "recipe": "https://www.marmiton.org/recettes/recette_vin-chaud-aux-epices-alsace_12995.aspx"
 	}
 ]
