@@ -1,76 +1,44 @@
 [
 	{
-        id: 1,
-        title: "Coquilles Saint-Jacques",
-		description: "Une délicieuse entrée de fruits de mer mettant en vedette des noix de Saint-Jacques, délicatement poêlées et servies dans une sauce crémeuse à base de vin blanc, d'échalotes et de champignons, le tout gratiné au four pour une saveur raffinée.",
-        img: "coquilles_saint_jacques.jpg",
-        thumb: "coquilles_saint_jacques.jpg",
-        recipe: "https://chefsimon.com/gourmets/chef-simon/recettes/noix-de-saint-jacques-sautees"
+        "id": 1,
+        "title": "Coquilles Saint-Jacques",
+		"description": "Une délicieuse entrée de fruits de mer mettant en vedette des noix de Saint-Jacques, délicatement poêlées et servies dans une sauce crémeuse à base de vin blanc, d'échalotes et de champignons, le tout gratiné au four pour une saveur raffinée.",
+        "img": "./img/coquilles_saint_jacques.jpg",
+        "thumb": "./img/coquilles_saint_jacques.jpg",
+        "recipe": "https://chefsimon.com/gourmets/chef-simon/recettes/noix-de-saint-jacques-sautees"
     }
     ,
 	{
-        id: 2,
-        title: "Risotto aux truffes blanches",
-        description: "Pour une option luxueuse et sophistiquée à intégrer dans votre menu de Noël, optez pour un risotto aux truffes blanches. Ce plat italien emblématique met en valeur un riz crémeux cuit lentement dans un bouillon parfumé, agrémenté de truffes blanches finement râpées pour une saveur intense et terreuse. La texture onctueuse du risotto associée à l'arôme distinctif des truffes crée une expérience gastronomique inoubliable. ",
-        img: "risotto_aux_truffes_blanches.jpg",
-        thumb: "risotto_aux_truffes_blanches.jpg",
-        recipe: "https://www.lacremerieroyale.fr/post/recette-de-risotto-a-la-truffe-blanche"
+        "id": 2,
+        "title": "Risotto aux truffes blanches",
+        "description": "Pour une option luxueuse et sophistiquée à intégrer dans votre menu de Noël, optez pour un risotto aux truffes blanches. Ce plat italien emblématique met en valeur un riz crémeux cuit lentement dans un bouillon parfumé, agrémenté de truffes blanches finement râpées pour une saveur intense et terreuse. La texture onctueuse du risotto associée à l'arôme distinctif des truffes crée une expérience gastronomique inoubliable. ",
+        "img": "./img/risotto_aux_truffes_blanches.jpg",
+        "thumb": "./img/risotto_aux_truffes_blanches.jpg",
+        "recipe": "https://www.lacremerieroyale.fr/post/recette-de-risotto-a-la-truffe-blanche"
     },
 	{
-        id: 3,
-        title: "Chapon rôti",
-        description: "Un classique festif, le chapon rôti est une volaille tendre et juteuse, cuite lentement au four jusqu'à ce qu'elle atteigne une perfection dorée. Ce plat est souvent accompagné de légumes rôtis et d'une sauce savoureuse.",
-        img: "chapon_roti.jpg",
-        thumb: "chapon_roti.jpg",
-        recipe: "https://www.cuisineactuelle.fr/recettes/chapon-roti-forestiere-209102"
+        "id": 3,
+        "title": "Chapon rôti",
+        "description": "Un classique festif, le chapon rôti est une volaille tendre et juteuse, cuite lentement au four jusqu'à ce qu'elle atteigne une perfection dorée. Ce plat est souvent accompagné de légumes rôtis et d'une sauce savoureuse.",
+        "img": "./img/chapon_roti.jpg",
+        "thumb": "./img/chapon_roti.jpg",
+        "recipe": "https://www.cuisineactuelle.fr/recettes/chapon-roti-forestiere-209102"
     },
 	{
-        id: 4,
-        title: "Magret de canard aux fruits rouges",
-        description: "Un mariage exquis de saveurs sucrées et salées, le magret de canard est grillé et nappé d'une sauce aux fruits rouges qui apporte une touche acidulée et sucrée, créant un équilibre parfait avec la richesse de la viande.",
-        img: "magret_de_canard_aux_fruits_rouges.jpg",
-        thumb:"magret_de_canard_aux_fruits_rouges.jpg",
-        recipe: "https://www.marmiton.org/recettes/recette_magrets-de-canard-aux-fruits-rouges_50839.aspx"
+        "id": 4,
+        "title": "Magret de canard aux fruits rouges",
+        "description": "Un mariage exquis de saveurs sucrées et salées, le magret de canard est grillé et nappé d'une sauce aux fruits rouges qui apporte une touche acidulée et sucrée, créant un équilibre parfait avec la richesse de la viande.",
+        "img": "./img/magret_de_canard_aux_fruits_rouges.jpg",
+        "thumb":"./img/magret_de_canard_aux_fruits_rouges.jpg",
+        "recipe": "https://www.marmiton.org/recettes/recette_magrets-de-canard-aux-fruits-rouges_50839.aspx"
 	},
     {
-        id: 5,
-        title: "Dinde aux marrons",
-        description: "Un plat traditionnel de fête, la dinde aux marrons, associe la tendreté de la dinde rôtie avec la saveur sucrée des marrons, créant une combinaison délicieuse de textures et de goûts. ",
-        img: "dinde_aux_marrons.jpg",
-        thumb:"dinde_aux_marrons.jpg",
-        recipe: "https://www.marmiton.org/recettes/recette_dinde-farcie-aux-marrons_24858.aspx"
-	},
-    {
-        id: 6,
-        title: "Raclette",
-        description: "Une expérience conviviale où le fromage raclette est fondu et raclé sur des pommes de terre cuites, accompagné de charcuterie, de cornichons et d'autres accompagnements, créant un repas chaleureux et réconfortant.",
-        img: "",
-        thumb:"",
-        recipe: ""
-	},
-    {
-        id: ,
-        title: "",
-        description: "",
-        img: "",
-        thumb:"",
-        recipe: ""
-	},
-    {
-        id: ,
-        title: "",
-        description: "",
-        img: "",
-        thumb:"",
-        recipe: ""
-	},
-    {
-        id: ,
-        title: "",
-        description: "",
-        img: "",
-        thumb:"",
-        recipe: ""
-	},
+        "id": 5,
+        "title": "Dinde aux marrons",
+        "description": "Un plat traditionnel de fête, la dinde aux marrons, associe la tendreté de la dinde rôtie avec la saveur sucrée des marrons, créant une combinaison délicieuse de textures et de goûts. ",
+        "img": "./img/dinde_aux_marrons.jpg",
+        "thumb":"./img/dinde_aux_marrons.jpg",
+        "recipe": "https://www.marmiton.org/recettes/recette_dinde-farcie-aux-marrons_24858.aspx"
+	}
 
 ]
