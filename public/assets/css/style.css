@@ -10,3 +10,20 @@ li {
     font-size: 12px;
     font-weight: 300;
 }
+
+
+/* Card produit catalogue */
+.img-size-case {
+    width: 100%;
+    height: 110px;
+}
+@media all and (min-width: 992px) {
+    .img-size-case {
+        height: 180px;
+    }
+}
+/* @media all and (min-width: 1200px) {
+    .img-size-case {
+        height: 200px;
+    }
+} */
