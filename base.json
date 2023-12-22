@@ -76,49 +76,120 @@
         "id": 10,
         "title": "St. Bernardus Christmas Ale",
         "description": "Originaire de Belgique, cette bière de Noël est riche et complexe. Elle offre des notes de fruits mûrs, de caramel, d'épices et une pointe chaleureuse de levure belge. Elle est équilibrée malgré sa robustesse.",
-        "img": "St_Bernardus_Christmas_Ale.jpeg",
-        "thumb":"St_Bernardus_Christmas_Ale.jpeg",
+        "img": "st_Bernardus_christmas_ale.jpg",
+        "thumb":"st_Bernardus_christmas_ale.jpg",
         "recipe": "https://www.saveur-biere.com/fr/bouteilles/4669-st-bernardus-christmas-ale.html"
 	},
     {
         "id": 11,
         "title": "Anchor Christmas Ale",
         "description": "Brassée par Anchor Brewing aux États-Unis, cette bière arbore chaque année un nouvel emballage et une nouvelle recette. Elle présente généralement des saveurs de malt caramélisé, d'épices et de houblon subtil.",
-        "img": "anchor_christmas_Ale.jpg",
-        "thumb":"anchor_christmas_Ale.jpg",
+        "img": "anchor_christmas_ale.jpg",
+        "thumb":"anchor_christmas_ale.jpg",
+        "recipe": "https://www.saveur-biere.com/fr/bouteilles/7766-anchor-christmas-ale.html"
+	},
+    {
+        "id": 12,
+        "title": "Delirium Noël",
+        "description": "Description : Une bière belge de la brasserie Huyghe, elle se caractérise par des arômes de fruits foncés, de caramel, d'épices et une légère amertume. Elle a une texture riche et une finition chaleureuse.",
+        "img": "delirium_noel.jpg",
+        "thumb":"delirium_noel.jpg",
+        "recipe": "https://www.saveur-biere.com/fr/bouteilles/271-delirium-christmas.html"
+	},
+    {
+        "id": 13,
+        "title": "Corsendonk Christmas Ale",
+        "description": "Une autre bière belge qui offre des saveurs complexes de caramel, de fruits secs, de levure épicée et de douces notes de chocolat. Elle est souvent bien équilibrée malgré sa richesse.",
+        "img": "corsendonk_christmas_ale.jpg",
+        "thumb":"corsendonk_christmas_ale.jpg",
+        "recipe": "https://www.saveur-biere.com/fr/bouteilles/558-corsendonk-christmas-ale.html"
+	},
+    {
+        "id": 14,
+        "title": "Rogue Santa's Private Reserve Ale",
+        "description": "Description : Cette bière américaine offre des arômes de houblon résineux, de malt caramélisé et d'épices. Elle a une finale sèche avec une légère amertume.",
+        "img": "rogue_santa_private_reserve_ale.jpg",
+        "thumb":"rogue_santa_private_reserve_ale.jpg",
+        "recipe": "https://shop.rogue.com/products/santas-private-reserve"
+	},
+    {
+        "id": 15,
+        "title": "Fuller's Vintage Ale",
+        "description": "Bien que pas exclusivement une bière de Noël, cette bière anglaise de la brasserie Fuller's est souvent sortie en fin d'année. Elle offre des saveurs riches de malt, de fruits et de caramel, et elle est vieillie pour une dégustation optimale.",
+        "img": "fullers_vintage_ale.jpg",
+        "thumb":"fullers_vintage_ale.jpg",
+        "recipe": "https://www.saveur-biere.com/fr/bouteilles/32539-fullers-vintage-ale-2018.html"
+	},
+    {
+        "id": 16,
+        "title": "La Trois Pistoles",
+        "description": "Cette bière brune forte est caractérisée par des saveurs complexes de fruits noirs, de figues, de caramel, ainsi que des notes épicées de levure belge. La Trois Pistoles présente une riche texture veloutée et une chaleur alcoolique subtile qui en font une boisson réconfortante pour les mois d'hiver. Son équilibre entre douceur maltée et nuances épicées en fait une excellente compagnie pour les célébrations festives de fin d'année, tout en reflétant l'expertise brassicole distinctive d'Unibroue.",
+        "img": "la_trois_pistoles.jpg",
+        "thumb":"la_trois_pistoles.jpg",
+        "recipe": "https://planet-bison.fr/Biere-Unibroue-Trois-pistoles-0772285101009--0000116.html"
+	},
+    {
+        "id": 17,
+        "title": "Black Pearl",
+        "description": "Cocktail festif au goût incomparable, le Black Pearl est parfait pour les fêtes de fin d'année! ",
+        "img": "black_pearl_version_champagne.jpg",
+        "thumb":"black_pearl_version_champagne.jpg",
         "recipe": ""
 	},
     {
-        "id": ,
-        "title": "",
-        "description": "",
-        "img": "",
-        "thumb":"",
+        "id": 18,
+        "title": "Soupe champenoise",
+        "description": "Considérée comme un cocktail de réception, la soupe champenoise sera parfaite pour une mise en bouche festive et personnalisée.",
+        "img": "soupe_champenoise.jpg",
+        "thumb":"soupe_champenoise.jpg",
         "recipe": ""
 	},
     {
-        "id": ,
-        "title": "",
-        "description": "",
-        "img": "",
-        "thumb":"",
+        "id": 19,
+        "title": "Mimosa",
+        "description": "Idéal pour les brunchs festifs ou les apéritifs, le mimosa est une alliance entre le jus d'orange et le vin pétillant. Ici, une touche de Cointreau est ajoutée pour exalter les saveurs du champagne.",
+        "img": "mimosa.jpg",
+        "thumb":"mimosa.jpg",
         "recipe": ""
 	},
     {
-        "id": ,
-        "title": "",
-        "description": "",
-        "img": "",
-        "thumb":"",
+        "id": 20,
+        "title": "Punch blanc",
+        "description": "Le punch blanc ou punch nounou est une boisson à base de lait de coco, rhum blanc, sucre de canne et mangue. Ce mélange exotique est une véritable explosion de saveurs en bouche. ",
+        "img": "punch_blanc.jpg",
+        "thumb":"punch_blanc.jpg",
         "recipe": ""
 	},
     {
-        "id": ,
-        "title": "",
-        "description": "",
-        "img": "",
-        "thumb":"",
+        "id": 21,
+        "title": "Cidre chaud",
+        "description": "Si vous n'êtes pas très fan du vin chaud, testez sans attendre le cidre chaud ! Réconfortant et aux doux effluves de pommes, le cidre chaud est un véritable délice.",
+        "img": "cidre_chaud.jpg",
+        "thumb":"cidre_chaud.jpg",
         "recipe": ""
 	},
-
+    {
+        "id": 22,
+        "title": "Spritz de fin d'année",
+        "description": "Originaire d'Italie, le Spritz est un cocktail à la couleur vive et au goût prononcé. Parfait pour apporter un peu de fraîcheur et de pétillant, ce cocktail est très prisé.",
+        "img": "spritz_de_fin_d_annee.jpg",
+        "thumb":"spritz_de_fin_d_annee.jpg",
+        "recipe": ""
+	},
+    {
+        "id": 23,
+        "title": "Kir impérial",
+        "description": "Parmi nos cocktails de Noël, celui-ci peut également être servi pour la Saint-Valentin ou un dîner en tête en tête. Chic et raffiné, le kir impérial est un cocktail idéal pour les amoureux.",
+        "img": "kir_imperial.jpg",
+        "thumb":"kir_imperial.jpg",
+        "recipe": ""
+	},
+    {
+        "id": 24,
+        "title": "Vin chaud aux épices",
+        "description": "Grand classique de Noël, le vin chaud est généralement servi dans la rue et est parfait pour réchauffer les mains engourdies par le froid. Voici une recette conviviale et chaleureuse!",
+        "img": "vin_chaud_aux_epices.jpg",
+        "thumb":"vin_chaud_aux_epices.jpg",
+        "recipe": ""
+	}
 ]
