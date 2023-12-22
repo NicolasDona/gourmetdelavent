@@ -1,0 +1,19 @@
+{
+    "name": "Calendrier de l'avent 2023",
+    "short_name": "Cal_2023",
+    "description": "Découvez chaque jours une surprise !",
+    "start_url": "./",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "icons": [
+      {
+        // lien vers icone
+        "src": "./",
+        // taille selon icone
+        "sizes": "",
+        "type": "image/png"
+      }
+    ]
+  }
+  //les commentaires n'étant pas autorisés, les supprimer après rempli la taille et la source de l'icone.
