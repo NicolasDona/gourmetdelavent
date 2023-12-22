@@ -13,7 +13,7 @@ li {
 }
 
 
-/* Card produit catalogue */
+/* Taille case */
 .img-size-case {
     width: 100%;
     height: 16vh;
@@ -23,8 +23,16 @@ li {
         height: 160px;
     }
 }
-/* @media all and (min-width: 1200px) {
-    .img-size-case {
-        height: 200px;
-    }
-} */
+
+.color-title {
+    color: #D7CBC1;
+}
+
+.easter-egg {
+    color: white;
+    text-decoration: none;
+    position: fixed;
+    top: 10px;
+    left: 10px;
+}
+
