@@ -1,9 +1,9 @@
 // ! Variables
 
 // pour les animations :
-const openCase = document.querySelector('.container__door');
-const door = document.querySelector('img'); 
-const imgToExtend = document.querySelector('.toExtend');
+const openCase = document.querySelectorAll('.container__door');
+const door = document.querySelectorAll('img'); 
+const imgToExtend = document.querySelectorAll('.toExtend');
 const fullsizeImg = document.querySelector('.fullsize');
 // pour gérer la date : 
 const date = new Date();
@@ -11,34 +11,35 @@ const dateDayNumber = date.getDate();
 // mettre en place le localStorage :
 const stockage = localStorage;
 console.log(stockage);
-console.log(door);
-console.log(dateDayNumber);
+
 
 // ! Evènements
-
-openCase.addEventListener('click', () => {
-    if (openCase.getAttribute('data-date') <= dateDayNumber) {
-    openDoor();
-    localStorage.setItem('dayOpened', openCase.getAttribute('data-date')); // mémoriser la case ouverte au click
-    }
+openCase.forEach(opCase => {
+    opCase.addEventListener('click', () => {
+        if (opCase.getAttribute('data-date') <= dateDayNumber) {
+            openDoor(opCase);
+            localStorage.setItem('dayOpened', opCase.getAttribute('data-date')); // mémoriser la case ouverte au click
+            }
 })
-
-imgToExtend.addEventListener('click', zoomIn);
+});
 
 fullsizeImg.addEventListener('click', zoomOut);
 
-
-
 // ! Fonctions
-
-function openDoor() {
-    door.classList.add('open');
+function openDoor(opCase) {
+    const mydoor = opCase.querySelector('.toOpen');
+    const myImg = opCase.querySelector('.toExtend');
+    mydoor.classList.add('open');
+    myImg.addEventListener('click', (e)=>zoomIn(e))
 }
 
-function zoomIn() {
+function zoomIn(event) {
+    console.log(event.target);
+    console.log(fullsizeImg);
     fullsizeImg.classList.remove('d-none');
     fullsizeImg.classList.remove('zoomOut');
     fullsizeImg.classList.add('zoomIn');
+    
 }
 
 function zoomOut() {
