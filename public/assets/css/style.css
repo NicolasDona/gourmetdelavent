@@ -30,11 +30,11 @@ li {
 }
 
 .easter-egg {
-    color: white;
+    color: #D7CBC1;
     text-decoration: none;
-    position: fixed;
-    top: 10px;
-    left: 10px;
+    /* position: fixed;
+    top: 55px;
+    left: 629px; */
 }
 
 .open {
