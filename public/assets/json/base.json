@@ -60,8 +60,8 @@
         "id": 8,
         "title": "Bûche de Noël",
         "description": "La Bûche de Noël est un dessert emblématique de la période des fêtes. Cette délicieuse pâtisserie se présente sous la forme d'un gâteau roulé, généralement à la génoise ou au biscuit roulé, garni de crème au beurre, de ganache ou de crème pâtissière. La surface est souvent décorée pour ressembler à une bûche de bois, créant ainsi une tradition sucrée festive à la fin des repas de Noël.",
-        "img": "buche_de_noel",
-        "thumb":"buche_de_noel",
+        "img": "buche_de_noel.jpg",
+        "thumb":"buche_de_noel.jpg",
         "recipe": "https://www.marmiton.org/recettes/recette_buche-de-noel-facile_18219.aspx"
 	},
     {
